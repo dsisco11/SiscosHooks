@@ -19,7 +19,7 @@ To download the installer click <a href="https://github.com/dsisco11/SiscosHooks
 If you need more information about installing visit the <a href="wiki">wiki</a>.
 
 ### Usage
-Visit the <a href="wiki">wiki</a>.
+Visit the <a href="https://github.com/dsisco11/SiscosHooks/wiki">wiki</a>.
 
 
 # FAQ
