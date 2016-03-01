@@ -1,6 +1,8 @@
 # SiscosHooks
 A library for hooking into events within the <a href="http://store.steampowered.com/app/433340/">SlimeRancher</a> game.  
-Please note that it is the _PLAYER_ who needs to install this mod. Plugins cannot use it unless the player has it installed.  
+Please note it is the _PLAYER_ who needs to install this mod.  
+Plugins cannot use it unless the player has it installed.  
+  
 
 ### What?
 More specifically this mod intercepts certain events and functions in SlimeRancher and then allows plugin developers to register callbacks for and be notified of those events, even going as far as allowing plugins to alter any of the event functions parameters or return values!  
