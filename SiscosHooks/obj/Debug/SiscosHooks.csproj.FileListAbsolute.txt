@@ -1,0 +1,8 @@
+c:\users\sisco\documents\visual studio 2015\Projects\SiscosHooks\SiscosHooks\bin\Debug\SiscosHooks.dll
+c:\users\sisco\documents\visual studio 2015\Projects\SiscosHooks\SiscosHooks\bin\Debug\SiscosHooks.pdb
+c:\users\sisco\documents\visual studio 2015\Projects\SiscosHooks\SiscosHooks\obj\Debug\SiscosHooks.csprojResolveAssemblyReference.cache
+c:\users\sisco\documents\visual studio 2015\Projects\SiscosHooks\SiscosHooks\obj\Debug\SiscosHooks.dll
+c:\users\sisco\documents\visual studio 2015\Projects\SiscosHooks\SiscosHooks\obj\Debug\SiscosHooks.pdb
+C:\Users\sisco\Documents\Visual Studio 2015\Projects\SiscosHooks\SiscosHooks\bin\Debug\UnityEngine.dll
+C:\Users\sisco\Documents\Visual Studio 2015\Projects\SiscosHooks\SiscosHooks\bin\Debug\UnityEngine.UI.dll
+C:\Users\sisco\Documents\Visual Studio 2015\Projects\SiscosHooks\SiscosHooks\bin\Debug\UnityEngine.xml
