@@ -16,7 +16,7 @@ More specifically this mod intercepts certain events and functions in SlimeRanch
 
 
 ### Installing
-The library comes with an installer which will inject it into your slimerancher much like a plugin loader would.  
+The library comes with an installer which will inject it into your game much like a plugin loader would.  
 To download the installer click <a href="https://github.com/dsisco11/SiscosHooks/raw/master/Installer.zip">HERE</a>.  
 If you need more information about installing visit the <a href="wiki">wiki</a>.
 
