@@ -24,7 +24,7 @@ If you need more information about installing visit the <a href="wiki">wiki</a>.
 Visit the <a href="https://github.com/dsisco11/SiscosHooks/wiki">wiki</a>.
 
 ## License
-SR Plugin Loader is released under the <a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache 2.0 license</a>
+SiscosHooks is released under the <a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache 2.0 license</a>
 
 
 # FAQ
