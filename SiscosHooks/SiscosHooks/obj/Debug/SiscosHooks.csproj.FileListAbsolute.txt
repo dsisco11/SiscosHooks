@@ -6,3 +6,13 @@ c:\users\sisco\documents\visual studio 2015\Projects\SiscosHooks\SiscosHooks\obj
 C:\Users\sisco\Documents\Visual Studio 2015\Projects\SiscosHooks\SiscosHooks\bin\Debug\UnityEngine.dll
 C:\Users\sisco\Documents\Visual Studio 2015\Projects\SiscosHooks\SiscosHooks\bin\Debug\UnityEngine.UI.dll
 C:\Users\sisco\Documents\Visual Studio 2015\Projects\SiscosHooks\SiscosHooks\bin\Debug\UnityEngine.xml
+C:\CODE\GAME_MODS\SiscosHooks\SiscosHooks\SiscosHooks\bin\Debug\SiscosHooks.dll
+C:\CODE\GAME_MODS\SiscosHooks\SiscosHooks\SiscosHooks\bin\Debug\SiscosHooks.pdb
+C:\CODE\GAME_MODS\SiscosHooks\SiscosHooks\SiscosHooks\bin\Debug\UnityEngine.dll
+C:\CODE\GAME_MODS\SiscosHooks\SiscosHooks\SiscosHooks\bin\Debug\UnityEngine.UI.dll
+C:\CODE\GAME_MODS\SiscosHooks\SiscosHooks\SiscosHooks\bin\Debug\System.Core.dll
+C:\CODE\GAME_MODS\SiscosHooks\SiscosHooks\SiscosHooks\bin\Debug\Mono.Posix.dll
+C:\CODE\GAME_MODS\SiscosHooks\SiscosHooks\SiscosHooks\bin\Debug\UnityEngine.xml
+C:\CODE\GAME_MODS\SiscosHooks\SiscosHooks\SiscosHooks\obj\Debug\SiscosHooks.csprojResolveAssemblyReference.cache
+C:\CODE\GAME_MODS\SiscosHooks\SiscosHooks\SiscosHooks\obj\Debug\SiscosHooks.dll
+C:\CODE\GAME_MODS\SiscosHooks\SiscosHooks\SiscosHooks\obj\Debug\SiscosHooks.pdb
