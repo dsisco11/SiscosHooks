@@ -2,6 +2,7 @@
 A library for hooking into events within the <a href="http://store.steampowered.com/app/433340/">SlimeRancher</a> game.  
 Please note it is the _PLAYER_ who needs to install this mod.  
 Plugins cannot use it unless the player has it installed.  
+Additionally plugin creators do not need any of the code from this library, they only need to reference the assembly. And read the wiki, the wiki is also important...  
   
 
 ### What?
