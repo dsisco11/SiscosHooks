@@ -15,10 +15,14 @@ More specifically this mod intercepts certain events and functions in SlimeRanch
 </ul>
 
 
-### Installing
+### Installing the plugin loader
 The library comes with an installer which will inject it into your slimerancher much like a plugin loader would.  
 To download the installer click <a href="https://github.com/dsisco11/SiscosHooks/raw/master/Installer.zip">HERE</a>.  
 If you need more information about installing visit the <a href="wiki">wiki</a>.
+
+### Installing plugins
+To install a plugin copy the folder containing the plugin DLL and any of its related icons or thumbnails to the _plugins_ folder within your SlimeRancher install directory.  
+On windows by default this should be `C:\Program Files (x86)\Steam\steamapps\common\Slime Rancher\plugins`
 
 ### Usage
 Visit the <a href="https://github.com/dsisco11/SiscosHooks/wiki">wiki</a>.
