@@ -27,6 +27,8 @@ Visit the <a href="https://github.com/dsisco11/SiscosHooks/wiki">wiki</a>.
 ## License
 SiscosHooks is released under the <a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache 2.0 license</a>
 
+## Donate
+If you would like to help support me then you can <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DYGPA5XA4MWC2">Donate</a>!
 
 # FAQ
 ### "An event I need isn't supported!"
