@@ -3,7 +3,7 @@ A library for hooking into events within the <a href="http://store.steampowered.
 Please note that it is the _PLAYER_ who needs to install this mod. Plugins cannot use it unless the player has it installed.  
 
 ### What?
-More specifically this mod intercepts certain events and functions in SlimeRancher and then allows plugin developers to register callbacks for and be notified of those events, even going as far as allowing plugins to alter any of an event functions parameter or return values!  
+More specifically this mod intercepts certain events and functions in SlimeRancher and then allows plugin developers to register callbacks for and be notified of those events, even going as far as allowing plugins to alter any of the event functions parameters or return values!  
 <ul>
 <li>Change plort market values.</li>
 <li>Alter entity spawn rates/limits.</li>
