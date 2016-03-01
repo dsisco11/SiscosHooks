@@ -2,7 +2,7 @@
 A library for hooking into events within the <a href="http://store.steampowered.com/app/433340/">SlimeRancher</a> game.  
 Please note that it is the _PLAYER_ who needs to install this mod. Plugins cannot use it unless the player has it installed.  
 
-## What?
+### What?
 More specifically this mod intercepts certain events and functions in SlimeRancher and then allows plugin developers to register callbacks for and be notified of those events, even going as far as allowing plugins to alter any of an event functions parameter or return values!  
 <ul>
 <li>Change plort market values.</li>
@@ -13,12 +13,12 @@ More specifically this mod intercepts certain events and functions in SlimeRanch
 </ul>
 
 
-## Installing
+### Installing
 The library comes with an installer which will inject it into your slimerancher much like a plugin loader would.  
 To download the installer click <a href="https://github.com/dsisco11/SiscosHooks/raw/master/Installer.zip">HERE</a>.  
 If you need more information about installing visit the <a href="wiki">wiki</a>.
 
-## Usage
+### Usage
 Visit the <a href="wiki">wiki</a>.
 
 
