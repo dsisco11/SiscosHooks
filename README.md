@@ -1,5 +1,3 @@
-### The installer has been taken down for repairs please be patient.
-
 # SiscosHooks
 A library for hooking into events within the <a href="http://store.steampowered.com/app/433340/">SlimeRancher</a> game.  
 Please note it is the _PLAYER_ who needs to install this mod.  
