@@ -38,7 +38,9 @@ namespace SiscosHooks
             new InjectionSite() { hook = HOOK_ID.CellDirector_Pre_Update, method = "CellDirector.Update", offset = 0 },
             new InjectionSite() { hook = HOOK_ID.CellDirector_Post_Update, method = "CellDirector.Update", offset = -1 },
             new InjectionSite() { hook = HOOK_ID.Get_Available_Saves, method = "GameData.AvailableGames", offset = 0 },
-            new InjectionSite() { hook = HOOK_ID.Get_Save_Directory, method = "GameData.ToPath", offset = 0 }
+            new InjectionSite() { hook = HOOK_ID.Get_Save_Directory, method = "GameData.ToPath", offset = 0 },
+            new InjectionSite() { hook = HOOK_ID.On_Save_Game, method = "GameData.Save", offset = 0 },
+            new InjectionSite() { hook = HOOK_ID.On_Load_Game, method = "GameData.Load", offset = 0 }
         };
     }
 }

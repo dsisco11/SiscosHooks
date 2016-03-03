@@ -20,7 +20,9 @@
         CellDirector_Pre_Update,
         CellDirector_Post_Update,
         Get_Available_Saves,
-        Get_Save_Directory
+        Get_Save_Directory,
+        On_Save_Game,
+        On_Load_Game
     }
 
 }
