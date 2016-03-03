@@ -25,9 +25,11 @@ The library comes with an installer which will inject it into your game much lik
 To download the installer click <a href="https://github.com/dsisco11/SiscosHooks/raw/master/Installer.zip">HERE</a>.  
 If you need more information about installing visit the <a href="wiki">wiki</a>.
 
-### Usage
-Visit the <a href="https://github.com/dsisco11/SiscosHooks/wiki">wiki</a>.
-
+### Developers
+Visit the <a href="https://github.com/dsisco11/SiscosHooks/wiki">wiki</a> for a guide on how to use this library!  
+Also I made a plugin loader (<a href="https://github.com/dsisco11/SR_Plugin_Loader">https://github.com/dsisco11/SR_Plugin_Loader</a>) that also includes a guide on creating plugins for SlimeRancher!  
+  
+  
 ## License
 SiscosHooks is released under the <a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache 2.0 license</a>
 
