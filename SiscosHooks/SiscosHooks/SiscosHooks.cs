@@ -17,7 +17,7 @@ namespace SiscosHooks
     /// </summary>
     public static class SiscoHook
     {
-        public const string VERSION = "0.0.1";// XXX: Make a custom version class thing for SiscosPluginLoader
+        public const string VERSION = "1.0";// XXX: Make a custom version class thing for SiscosPluginLoader
         private static Dictionary<HOOK_ID, List<Sisco_Hook_Delegate>> events = new Dictionary<HOOK_ID, List<Sisco_Hook_Delegate>>();
         private static Dictionary<object, List<Sisco_Hook_Ref>> tracker = new Dictionary<object, List<Sisco_Hook_Ref>>();
 

@@ -48,19 +48,19 @@
         /// </summary>
         Player_Damaged,
         /// <summary>
-        /// Fires whenever the player takes damage, make the sender return true to kill the player
+        /// Fires whenever the player should loose energy.
         /// <para> Class: PlayerState </para>
         /// <param name="energy">(float) The amount of energy to lose.</param>
         /// </summary>
         Player_LoseEnergy,
         /// <summary>
-        /// Fires whenever the player takes damage, make the sender return true to kill the player
+        /// Fires whenever the players energy value is being  altered.
         /// <para> Class: PlayerState </para>
         /// <param name="energy">(int) The amount of energy to set to.</param>
         /// </summary>
         Player_SetEnergy,
         /// <summary>
-        /// Called to check if an entity can be sucked up by the VacPak
+        /// Called to check if an entity can be sucked up by the VacPak.
         /// <para> Class: Vacuumable </para>
         /// </summary>
         Vac_Can_Capture,
