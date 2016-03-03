@@ -21,8 +21,8 @@
         CellDirector_Post_Update,
         Get_Available_Saves,
         Get_Save_Directory,
-        On_Save_Game,
-        On_Load_Game
+        Pre_Save_Game,
+        Pre_Load_Game
     }
 
 }
