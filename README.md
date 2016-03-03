@@ -35,9 +35,8 @@ SiscosHooks is released under the <a href="https://tldrlegal.com/license/apache-
 If you would like to help support me then you can <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DYGPA5XA4MWC2">Donate</a>!
 
 # FAQ
-### "An event I need isn't supported!"
-_Well too bad bucko._
-Nah, only joking. Just create an issue on the projects github page and I'll see what I can do about it.
+### "An event I need isn't implemented yet!"
+File an issue on this project github page and I'll see what I can do about it.
 
 
 
