@@ -19,6 +19,8 @@ More specifically this mod intercepts certain events and functions in SlimeRanch
 </ul>  
 Read the <a href="/wiki">WIKI</a> for more information.  
 
+## Help & Support  
+If you need help with anything dont be afraid to create an <a href="https://github.com/dsisco11/SiscosHooks/issues">issue report</a>!
 
 ### Installing
 The library comes with an installer which will inject it into your game much like a plugin loader would.  
