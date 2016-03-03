@@ -1,19 +1,21 @@
 # SiscosHooks
-A library for hooking into events within the <a href="http://store.steampowered.com/app/433340/">SlimeRancher</a> game.  
+
 Please note it is the _PLAYER_ who needs to install this mod.  
 Plugins cannot use it unless the player has it installed.  
 Additionally plugin creators do not need any of the code from this library, they only need to reference the assembly. And read the wiki, the wiki is also important...  
   
 
 ### What?
+This is a library for hooking into events within the <a href="http://store.steampowered.com/app/433340/">SlimeRancher</a> game.  
 More specifically this mod intercepts certain events and functions in SlimeRancher and then allows plugins to register callbacks for those events, even going so far as allowing plugins to alter any of the event functions parameters or return values!  
 <ul>
-<li>Change plort market values.</li>
-<li>Alter entity spawn rates/limits.</li>
-<li>Alter weapon functionality</li>
+<li>Alter weapon behaviour</li>
+<li>Change plort prices</li>
+<li>Alter entity spawning logic.</li>
 <li>(Soon) Add custom upgrades</li>
-<li>Much more!</li>
-</ul>
+<li>And much more!</li>
+</ul>  
+Read the <a href="/wiki">WIKI</a> for more information.  
 
 
 ### Installing
