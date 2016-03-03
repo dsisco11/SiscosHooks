@@ -1,8 +1,10 @@
 # SiscosHooks
 
-Please note it is the _PLAYER_ who needs to install this mod.  
-Plugins cannot use it unless the player has it installed.  
-Additionally plugin creators do not need any of the code from this library, they only need to reference the assembly. And read the wiki, the wiki is also important...  
+**Please note**  
+If you make a plugin that relies on this mod then the _Players_ will need to also install this mod for your plugin to work!
+
+Additionally plugin creators do not need any of the _code_ from this library, they only need to add the .dll file as an assembly reference.  
+For more information on how to do this **read our wiki*.*  
   
 
 ### What?
