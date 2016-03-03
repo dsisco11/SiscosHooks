@@ -27,7 +27,7 @@ If you need more information about installing visit the <a href="wiki">wiki</a>.
 
 ### Developers
 Visit the <a href="https://github.com/dsisco11/SiscosHooks/wiki">wiki</a> for a guide on how to use this library!  
-Also I made a plugin loader (<a href="https://github.com/dsisco11/SR_Plugin_Loader">https://github.com/dsisco11/SR_Plugin_Loader</a>) that also includes a guide on creating plugins for SlimeRancher!  
+I also made a plugin loader (<a href="https://github.com/dsisco11/SR_Plugin_Loader">https://github.com/dsisco11/SR_Plugin_Loader</a>) that includes a guide on creating plugins for SlimeRancher!  
   
   
 ## License
