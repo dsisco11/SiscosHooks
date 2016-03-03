@@ -4,7 +4,7 @@
 If you make a plugin that relies on this mod then the _Players_ will need to also install this mod for your plugin to work!
 
 Additionally plugin creators do not need any of the _code_ from this library, they only need to add the .dll file as an assembly reference.  
-For more information on how to do this **read our wiki**.  
+For more information on how to do this _read our wiki_.  
   
 
 ### What?
